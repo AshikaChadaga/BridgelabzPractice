@@ -1,3 +1,5 @@
 this is my first text file
 I have modified this file on the remote repo
 I have modified the local repo at the same line to create merge conflict
+I am creating a merge conflict in the remote repo (conflict as same line is changed)
+I have removed the conflict and kept both lines that caused the merge conflict.
